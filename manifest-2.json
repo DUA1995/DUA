@@ -1,0 +1,21 @@
+{
+  "name": "DUA",
+  "theme_color": "#ff7e4f",
+  "background_color": "#acd7e6",
+  "short_name": "DUA",
+  "id": "dua1995",
+  "description": "data analysis tootl",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "education"
+  ],
+  "share_target": {
+    "method": "GET",
+    "action": "/share-receiver",
+    "params": {
+      "url": "https://dua1995.github.io/DUA/"
+    }
+  }
+}
